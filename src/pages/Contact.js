@@ -13,9 +13,9 @@ function Contact() {
         <h2 className="text-6xl pb-4"> Contact me</h2>
         <p className="text-2xl font-light">
           <b>Email:</b> siva.s.monster@gmail.com<br></br>
-          <b>LinkedIn:</b>https://www.linkedin.com/in/siva-s-6676b0256<br></br>
-          <b>Github:</b>https://github.com/siva-s-monster<br></br>
-          <b>Phone:</b>678-404-9930
+          <b>LinkedIn:</b> https://www.linkedin.com/in/siva-s-6676b0256<br></br>
+          <b>Github:</b> https://github.com/siva-s-monster<br></br>
+          <b>Phone:</b> 678-404-9930
         </p>
         <p></p>
       </motion.div>
